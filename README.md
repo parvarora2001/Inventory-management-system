@@ -1,2 +1,2 @@
 # Inventory-management-system
-Download Netbeans before for the ocde to run 
+Download Netbeans for this project
